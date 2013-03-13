@@ -1,0 +1,1 @@
+require 'verifier/file_verifier'

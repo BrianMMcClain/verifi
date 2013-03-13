@@ -4,6 +4,7 @@ GEM
     net-scp (1.1.0)
       net-ssh (>= 2.6.5)
     net-ssh (2.6.6)
+    thor (0.16.0)
 
 PLATFORMS
   ruby
@@ -11,3 +12,4 @@ PLATFORMS
 DEPENDENCIES
   net-scp (= 1.1.0)
   net-ssh (= 2.6.6)
+  thor (= 0.16.0)
